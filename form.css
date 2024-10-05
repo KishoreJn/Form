@@ -1,0 +1,161 @@
+body {
+    background-color: rgba(235, 183, 227, 0.911);
+}
+
+.main1 {
+    width: 90%;
+    margin: auto;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+
+.main2 {
+    width: 90%;
+    margin: auto;
+    padding-left: 10px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+
+.p1 {
+    color: red;
+}
+
+.form1 {
+    padding-bottom: 20px;
+}
+
+.main3 {
+    width: 90%;
+    margin: auto;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+
+.main4 {
+    width: 90%;
+    margin: auto;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+
+.main5{
+    width: 90%;
+    margin: auto;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+.main7{
+    width: 90%;
+    margin: auto;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+.main8{
+    width: 90%;
+    margin: auto;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+.main9{
+    width: 90%;
+    margin: auto;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+.main10{
+    width: 90%;
+    margin: auto;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+.main11{
+    width: 90%;
+    margin: auto;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+.main12{
+    width: 90%;
+    margin: auto;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    font-family: sans-serif;
+    text-align: left;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+}
+.button1{
+    text-align: center;
+}
+button img{
+    width: 10px;
+}
